@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio_Viktoriia/static/css/main.9264e50f.css",
-    "main.js": "/Portfolio_Viktoriia/static/js/main.399de2ec.js",
+    "main.js": "/Portfolio_Viktoriia/static/js/main.df07d2b6.js",
     "static/css/64.8b9f33a5.chunk.css": "/Portfolio_Viktoriia/static/css/64.8b9f33a5.chunk.css",
     "static/js/64.41912c0a.chunk.js": "/Portfolio_Viktoriia/static/js/64.41912c0a.chunk.js",
     "static/css/769.e6f3969b.chunk.css": "/Portfolio_Viktoriia/static/css/769.e6f3969b.chunk.css",
@@ -10,9 +10,9 @@
     "static/media/taras.png": "/Portfolio_Viktoriia/static/media/taras.f28374fdd30579238811.png",
     "static/media/Montserrat-Regular.ttf": "/Portfolio_Viktoriia/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/checkinsea.png": "/Portfolio_Viktoriia/static/media/checkinsea.effadef29ff150b5d0be.png",
-    "static/media/resume.pdf": "/Portfolio_Viktoriia/static/media/resume.209f100e0d07c0ea6ce0.pdf",
     "static/media/database.png": "/Portfolio_Viktoriia/static/media/database.2323e2dc02d910b5b83c.png",
     "static/media/britishheartfoundation.jpg": "/Portfolio_Viktoriia/static/media/britishheartfoundation.d7a6d324569bafab58f7.jpg",
+    "static/media/resume.pdf": "/Portfolio_Viktoriia/static/media/resume.327944dab6c2fc2b1304.pdf",
     "static/media/manOnTable.svg": "/Portfolio_Viktoriia/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/dream-place.ttf": "/Portfolio_Viktoriia/static/media/dream-place.1b830d7e86113d65fdd9.ttf",
     "static/media/contactMailDark.svg": "/Portfolio_Viktoriia/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
@@ -22,7 +22,7 @@
     "static/media/skill.svg": "/Portfolio_Viktoriia/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/Portfolio_Viktoriia/index.html",
     "main.9264e50f.css.map": "/Portfolio_Viktoriia/static/css/main.9264e50f.css.map",
-    "main.399de2ec.js.map": "/Portfolio_Viktoriia/static/js/main.399de2ec.js.map",
+    "main.df07d2b6.js.map": "/Portfolio_Viktoriia/static/js/main.df07d2b6.js.map",
     "64.8b9f33a5.chunk.css.map": "/Portfolio_Viktoriia/static/css/64.8b9f33a5.chunk.css.map",
     "64.41912c0a.chunk.js.map": "/Portfolio_Viktoriia/static/js/64.41912c0a.chunk.js.map",
     "769.e6f3969b.chunk.css.map": "/Portfolio_Viktoriia/static/css/769.e6f3969b.chunk.css.map",
@@ -30,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.9264e50f.css",
-    "static/js/main.399de2ec.js"
+    "static/js/main.df07d2b6.js"
   ]
 }
