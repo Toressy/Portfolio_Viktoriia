@@ -26,7 +26,7 @@ const greeting = {
      "A passionate Data Analyst and Python Developer 🚀 with expertise in machine learning, database optimisation, and behavioral science-driven products. I love transforming data into actionable insights through analysis and visualisation."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ZW8OFDOoW_gaxYFL_3rADe8MsNf6Q3Hj/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1ZW8OFDOoW_gaxYFL_3rADe8MsNf6Q3Hj/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
