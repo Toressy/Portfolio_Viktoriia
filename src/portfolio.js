@@ -26,7 +26,7 @@ const greeting = {
      "A passionate Data Analyst and Python Developer 🚀 with expertise in machine learning, database optimisation, and behavioral science-driven products. I love transforming data into actionable insights through analysis and visualisation."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/16jRTeuOfzscqqwQEvUbgYv7ojokLG1nY/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1ZW8OFDOoW_gaxYFL_3rADe8MsNf6Q3Hj/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -161,19 +161,27 @@ const techStack = {
   viewSkillBars: true,
   experience: [
     {
-      Stack: "Python Development",
+      Stack: "Python (Pandas, NumPy, Scikit-learn)",
       progressPercentage: "90%"
     },
     {
-      Stack: "Data Analysis",
+      Stack: "SQL (Joins, CTEs, Query Optimization)",
       progressPercentage: "85%"
     },
     {
-      Stack: "Database Management",
+      Stack: "Excel (Power Pivot, DAX, Data Modeling)",
       progressPercentage: "80%"
     },
     {
-      Stack: "Machine Learning",
+      Stack: "Tableau",
+      progressPercentage: "90%"
+    },
+    {
+      Stack: "Power BI",
+      progressPercentage: "80%"
+    },
+    {
+      Stack: "Machine Learning (Supervised/Unsupervised)",
       progressPercentage: "75%"
     }
   ],
@@ -256,6 +264,32 @@ const bigProjects = {
         {
           name: "Live Demo", // New link for the live demo
           url: "https://interpreter-3e9n.onrender.com/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/tableau.png"), // Add appropriate image
+      projectName: "Road Accidents Dashboard",
+      projectDesc: "Developed an interactive Tableau dashboard analysing UK road accident data to identify high-risk areas and temporal trends, demonstrating ability to translate raw data into actionable safety insights.",
+      footerLink: [
+        {
+          name: "View Code",
+          url: "https://github.com/Toressy/Interpreter-https://github.com/Toressy/Road_Accidents" // Add GitHub link when available
+        },
+        {
+          name: "Live Demo", // New link for the live demo
+          url: "https://public.tableau.com/app/profile/viktoriia.tytarenko/viz/Road_Accidents_17586453415910/Road_Accidents"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/powerbi.png"), // Add appropriate image
+      projectName: "Real-Time Weather Dashboard ",
+      projectDesc: "Developed a dynamic dashboard integrating external API data for real-time weather and air quality across multiple UK cities.",
+      footerLink: [
+        {
+          name: "View Code",
+          url: "https://github.com/Toressy/Weather" // Add GitHub link when available
         }
       ]
     }
