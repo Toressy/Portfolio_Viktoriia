@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio_Viktoriia/static/css/main.9264e50f.css",
-    "main.js": "/Portfolio_Viktoriia/static/js/main.566db929.js",
+    "main.js": "/Portfolio_Viktoriia/static/js/main.399de2ec.js",
     "static/css/64.8b9f33a5.chunk.css": "/Portfolio_Viktoriia/static/css/64.8b9f33a5.chunk.css",
     "static/js/64.41912c0a.chunk.js": "/Portfolio_Viktoriia/static/js/64.41912c0a.chunk.js",
     "static/css/769.e6f3969b.chunk.css": "/Portfolio_Viktoriia/static/css/769.e6f3969b.chunk.css",
@@ -22,7 +22,7 @@
     "static/media/skill.svg": "/Portfolio_Viktoriia/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/Portfolio_Viktoriia/index.html",
     "main.9264e50f.css.map": "/Portfolio_Viktoriia/static/css/main.9264e50f.css.map",
-    "main.566db929.js.map": "/Portfolio_Viktoriia/static/js/main.566db929.js.map",
+    "main.399de2ec.js.map": "/Portfolio_Viktoriia/static/js/main.399de2ec.js.map",
     "64.8b9f33a5.chunk.css.map": "/Portfolio_Viktoriia/static/css/64.8b9f33a5.chunk.css.map",
     "64.41912c0a.chunk.js.map": "/Portfolio_Viktoriia/static/js/64.41912c0a.chunk.js.map",
     "769.e6f3969b.chunk.css.map": "/Portfolio_Viktoriia/static/css/769.e6f3969b.chunk.css.map",
@@ -30,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.9264e50f.css",
-    "static/js/main.566db929.js"
+    "static/js/main.399de2ec.js"
   ]
 }
